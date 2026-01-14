@@ -1,5 +1,5 @@
 # FreeFlameDevShell
-#FreeFDShell
+# FreeFDShell
   Small toolbox written on Micropython, almost ready to run on Everything.
 # Instructions
 ## Main 
@@ -18,4 +18,4 @@
 
 ```root # toolbox```
   
-  Available from release 1.1 .
+  Available from release 1.1 fix .
