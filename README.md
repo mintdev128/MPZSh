@@ -1,6 +1,6 @@
 # FreeFlameDevShell
 # FreeFDS
-  Small toolbox written on Micropython, almost ready to run on Everything.
+  Small toolbox written on Python, almost ready to run on Everything.
 # Instructions
 ## Main 
   To use toolbox just write the command you want to use, so simple.
